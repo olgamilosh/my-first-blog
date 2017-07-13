@@ -25,7 +25,7 @@ SECRET_KEY = '+8*0dwa2uykg4ibv^-x@1vve&jxtxzeem@4!lia1acq=79*vrp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','olgamilosh12345.pythonanywhere.com']
+ALLOWED_HOSTS = ['olgamilosh12345.pythonanywhere.com']
 
 
 # Application definition
